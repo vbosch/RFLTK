@@ -26,19 +26,18 @@ Install
 Author
 ------
 
-Original author: FIXME (author's name)
+Vicente Bosch Campos
 
 Contributors:
 
-* FIXME (contributor 1?)
-* FIXME (contributor 2?)
+None at the moment
 
 License
 -------
 
-(The MIT License) FIXME (different license?)
+(The MIT License)
 
-Copyright (c) 2011 FIXME (author's name)
+Copyright (c) 2011 Vicente Bosch Campos
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
