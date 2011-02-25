@@ -1,12 +1,16 @@
 RFLTK
 ===========
 
-FIXME (describe your package)
+The Ruby Formal Language Tool Kit is a base framework to work with Formal Language concepts like Finite State Automatons, Formal Grammars,... to cover regular and some of the context-free group languages. 
 
 Features
 --------
 
-* FIXME (list of features and unsolved problems)
+Current in scope features:
+   - Finite State Automatas
+   - Formal Grammars
+        - Regular Language derivation
+        - Cocker Kasami Younger (CKY) derivation for context free grammars in Chomsky normal form
 
 Examples
 --------
@@ -21,7 +25,7 @@ Requirements
 Install
 -------
 
-* FIXME (sudo gem install, anything else)
+gem install RFLTK
 
 Author
 ------
@@ -30,7 +34,7 @@ Vicente Bosch Campos
 
 Contributors:
 
-None at the moment
+(None at the moment)
 
 License
 -------
