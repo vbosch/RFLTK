@@ -7,10 +7,10 @@ Features
 --------
 
 Current in scope features:
-   - Finite State Automatas
-   - Formal Grammars
-        - Regular Language derivation
-        - Cocker Kasami Younger (CKY) derivation for context free grammars in Chomsky normal form
+	- Finite State Automatas
+	- Formal Grammars:
+		- Regular Language derivation
+		- Cocker Kasami Younger (CKY) derivation for context free grammars in Chomsky normal form
 
 Examples
 --------
