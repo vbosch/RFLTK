@@ -20,7 +20,7 @@ Examples
 Requirements
 ------------
 
-* FIXME (list of requirements)
+None
 
 Install
 -------
