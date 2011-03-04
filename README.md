@@ -15,7 +15,7 @@ Current in scope features:
 Examples
 --------
 
-    FIXME (code sample of usage)
+    TBD
 
 Requirements
 ------------
